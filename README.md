@@ -1,4 +1,4 @@
 instacontest
 ============
 
-The code for the /stashedboxes winner selection
+Code to get users entries based on a hashtag on Instagram.
